@@ -1,6 +1,12 @@
-   ### Olá 👋
+-  ### Olá  Sou Luiz Carlos 👋
 - 🌱 Estudando Java / Desenvolvimento de sistemas
-- 📫 soares.lc90@gmail.com
+  <div> 
+  <a href = "mailto:soares.lc90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-carlos-jovino-da-silva-9882ba153/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+       
+       
+  </div>
+
 
 <div>
   <a href="https://github.com/LuizCarlosJovino">
