@@ -1,5 +1,5 @@
 -  ### Olá  Sou Luiz Carlos 👋
-- 🌱 Estudando Java / Desenvolvimento de sistemas
+- 🌱 Estudando C# / Desenvolvimento de sistemas
   
  
 <div>
